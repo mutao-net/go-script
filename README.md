@@ -1,1 +1,1 @@
-# go-script
+# mutao-script
